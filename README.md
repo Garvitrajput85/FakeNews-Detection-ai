@@ -95,8 +95,6 @@ To get started with this project, follow these steps:
    python app.py
    ```
 
-Access the application in your web browser by navigating to `http://localhost:5000`.
-
 ---
 
 **Author**
