@@ -5,7 +5,7 @@ from flask import Flask, render_template, request
 import re
 import pickle
 
-app = Flask(__name__, template_folder='./templates', static_folder='./static')
+app = Flask(__name__, template_folder='./Fronted', static_folder='./static')
 
 loaded_model = pickle.load(open("model.pkl", 'rb'))
 vector = pickle.load(open("vector.pkl", 'rb'))
