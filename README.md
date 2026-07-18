@@ -51,6 +51,18 @@ The Passive Aggressive Classifier (PAC) is a type of online learning algorithm f
 
 ## Images
 This section provides visuals and diagrams used in the project:
+- Output1
+![Output1](Images/output-ui.png)
+
+Output2
+![Output1](Images/Prediction-page.png)
+
+Output3
+![Output1](Images/output-predictrealnews.png)
+
+Output4
+![Output1](Images/output-predictfakenews.png)
+
 - Block Diagram
 ![Block Diagram](Images/BlockDiagram.jpg)
 
@@ -100,10 +112,7 @@ To get started with this project, follow these steps:
 **Author**
 
 **Garvit Raja**
-
 Final Year B.Tech (Computer Science Engineering)
-
-Machine Learning | Python | MERN Stack | AI Enthusiast
-
+Machine Learning | Python | MERN Stack..
 
 ---
