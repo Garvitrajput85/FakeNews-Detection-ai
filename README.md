@@ -112,7 +112,9 @@ To get started with this project, follow these steps:
 **Author**
 
 **Garvit Raja**
+
 Final Year B.Tech (Computer Science Engineering)
+
 Machine Learning | Python | MERN Stack..
 
 ---
